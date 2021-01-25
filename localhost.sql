@@ -19,10 +19,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `id5755675_inventoryforyou`
+-- Database: `stock2`
 --
-CREATE DATABASE IF NOT EXISTS `id5755675_inventoryforyou` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-USE `id5755675_inventoryforyou`;
+CREATE DATABASE IF NOT EXISTS `stock2` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+USE `stock2`;
 
 -- --------------------------------------------------------
 
